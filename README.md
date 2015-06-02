@@ -1,3 +1,3 @@
-[![accentuate](accentuate.jpg?raw=true "Accentuate")
+![accentuate](accentuate.jpg?raw=true "Accentuate")
 
 #Accentuate
